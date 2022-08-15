@@ -20,7 +20,7 @@ This project uses lot of stuff as:
 
 ## Creating an App
 
-You’ll need to have Node 14.0.0 or later version on your local development machine
+You’ll need to have Node 14.18.0 or later version on your local development machine
 
 ### create app with degit
 ```bash
