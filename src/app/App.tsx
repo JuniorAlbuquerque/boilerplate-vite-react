@@ -40,7 +40,7 @@ const App: FC = () => {
         </Button>
 
         <p>this project contains</p>
-        <div className={styles.cardContainer()}>
+        <div className={styles.linksContainer()}>
           <Link href="https://stitches.dev/" target="_blank" rel="noreferrer">
             Stitches
           </Link>

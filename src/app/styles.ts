@@ -44,7 +44,7 @@ export const styles = {
     }
   }),
 
-  cardContainer: css({
+  linksContainer: css({
     display: 'flex',
     gap: '$4'
   }),
