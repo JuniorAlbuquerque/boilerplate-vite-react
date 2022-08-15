@@ -18,6 +18,36 @@ This project uses lot of stuff as:
  - [Eslint](https://eslint.org/)
  - [Prettier](https://prettier.io/)
 
+## Creating an App
+
+You’ll need to have Node 14.0.0 or later version on your local development machine
+
+### create app with degit
+```bash
+  npx degit JuniorAlbuquerque/boilerplate-vite-react#main my-project
+  cd my-project 
+  yarn
+  yarn dev
+```
+
+## Scripts
+
+### Run and build
+```bash
+yarn dev #start dev server
+yarn dev:open #start dev server and open in browser
+yarn build #build for production
+yarn preview #locally preview production build
+```
+
+### Test
+
+```bash
+  yarn test #to run test in terminal
+  yarn test:ui #to run test with vitest ui
+  yarn coverage #to run test coverage 
+```
+
 ## Contributors
 
 <table>
