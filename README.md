@@ -4,7 +4,7 @@
 
 # Vite React Boilerplate
 
-Built for high-performance React.js apps with a focus on faster, testable, high-performance development.
+Built for high-performance React.js apps with a focus on faster, testable and high-performance.
 
 
 ## Technologies
