@@ -14,7 +14,11 @@ const App: FC = () => {
     <div className={styles.wrapper()}>
       <main>
         <div>
-          <a href="https://github.com/" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/JuniorAlbuquerque/boilerplate-vite-react"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               src="/logo-boilerplate.svg"
               className={styles.logo()}
